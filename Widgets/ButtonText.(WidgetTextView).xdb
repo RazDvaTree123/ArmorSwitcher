@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetTextView>
+	<FormatFileRef href="ButtonText.txt" />
+	<Name>ButtonText</Name>
+	<Placement>
+		<X>
+			<Size>32</Size>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+		</X>
+		<Y>
+			<Size>32</Size>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+		</Y>
+	</Placement>
+	<TransparentInput>true</TransparentInput>
+	<Priority>3</Priority>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+</WidgetTextView>

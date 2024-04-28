@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetForm>
+	<Name>ArmorSwitcher</Name>
+	<Priority>4000</Priority>
+	<Children>
+		<Item href="MainButton.(WidgetButton).xdb" />
+		<Item href="BuildArmorPanel.(WidgetPanel).xdb" />
+		<Item href="SaveAugModulPanel.(WidgetPanel).xdb" />
+		<Item href="ButtonText.(WidgetTextView).xdb" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+</WidgetForm>

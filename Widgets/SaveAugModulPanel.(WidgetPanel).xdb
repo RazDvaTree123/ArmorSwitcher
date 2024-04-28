@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>SaveAugModulPanel</Name>
+	<Placement>
+		<X>
+			<Size>200</Size>
+			<Align>WIDGET_ALIGN_LOW</Align>
+		</X>
+		<Y>
+			<Size>32</Size>
+		</Y>
+	</Placement>
+	<Children>
+		<Item href="WidgetButton.(WidgetButton).xdb" />
+	</Children>
+</WidgetPanel>

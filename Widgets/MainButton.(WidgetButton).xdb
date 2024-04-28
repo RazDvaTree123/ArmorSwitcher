@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Variants>
+		<Item>
+			<TextFileRef href="ButtonText.txt" />
+			<Reaction>REACT_ON_CLICK</Reaction>
+			<ReactionRightClick>REACT_ON_RIGHT_CLICK</ReactionRightClick>
+		</Item>
+	</Variants>
+	<Name>MainButton</Name>
+	<Priority>4</Priority>
+	<Placement>
+		<X>
+			<Size>32</Size>
+		</X>
+		<Y>
+			<Size>32</Size>
+		</Y>
+	</Placement>
+	<Enabled>true</Enabled>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<Header>
+		<Prototype href="EditorCommon/ButtonRegular2/ButtonRegular.Prototype.(WidgetButton).xdb" />
+	</Header>
+</WidgetButton>

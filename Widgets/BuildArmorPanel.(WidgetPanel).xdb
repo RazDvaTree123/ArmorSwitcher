@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>BuildArmorPanel</Name>
+	<Header>
+		<Prototype href="EditorCommon/MsgBox/MsgBoxShaded.Prototype.(WidgetPanel).xdb" />
+	</Header>
+	<Placement>
+		<Y>
+			<Size>32</Size>
+		</Y>
+	</Placement>
+	<Priority>50000</Priority>
+	<Visible>false</Visible>
+	<Enabled>false</Enabled>
+	<PickChildrenOnly>false</PickChildrenOnly>
+</WidgetPanel>

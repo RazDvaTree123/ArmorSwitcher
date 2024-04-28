@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>CombinedTemplate</Name>
+	<Header>
+		<Prototype href="EditorCommon/MsgBox/MsgBoxLight.Prototype.(WidgetPanel).xdb" />
+	</Header>
+</WidgetPanel>
